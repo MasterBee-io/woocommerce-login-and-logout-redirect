@@ -1,24 +1,25 @@
 # Login-and-Logout-Redirect
 A WordPress plugin which enables you to redirect users on login and logout or both, in a simplest way.
 
-**Contributors:**      [patilswapnilv](https://github.com/patilswapnilv/).    
-**Plugin Name:**       Login and Logout redirect  
-**Plugin URI:**        https://wordpress.org/plugins/login-and-logout-redirect/     
-**Tags:**              redirect,login, logout, redirect on login, redirect on logout, login and logout redirect  
-**Author:**            [patilswapnilv](https://profiles.wordpress.org/patilswapnilv)  
-**Author URI:**        https://swapnil.blog    
+**Contributors:**      [masterbee-io](https://github.com/MasterBee-io/).    
+**Plugin Name:**       Woocommerce Login and Logout redirect  
+**Plugin URI:**         
+**Tags:**              woocommerce redirect,login, logout, redirect on login, redirect on logout, login and logout redirect  
+**Author:**            [joe]
+**Author URI:**        https://github.com/MasterBee-io/   
 **License:**           GPL-3.0+  
 **License URI:**       https://www.gnu.org/licenses/gpl-3.0.en.html  
 **Requires at least:** 3.5  
 **Tested up to:**      5.0
 **Stable tag:**        1.0.5  
 
-[![Build Status](https://travis-ci.org/patilswapnilv/login-and-logout-redirect.svg)](https://travis-ci.org/patilswapnilv/login-and-logout-redirect) ![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/patilswapnilv/login-and-logout-redirect/badges/quality-score.png?b=master) [![Code Climate](https://codeclimate.com/github/patilswapnilv/login-and-logout-redirect/badges/gpa.svg)](https://codeclimate.com/github/patilswapnilv/login-and-logout-redirect) [![WordPress](https://img.shields.io/wordpress/plugin/dt/login-and-logout-redirect.svg)](https://wordpress.org/plugins/login-and-logout-redirect/) [![WordPress](https://img.shields.io/wordpress/v/login-and-logout-redirect.svg)](https://wordpress.org/plugins/login-and-logout-redirect/) [![WordPress plugin](https://img.shields.io/wordpress/plugin/v/login-and-logout-redirect.svg)](https://wordpress.org/plugins/login-and-logout-redirect/) [![WordPress rating](https://img.shields.io/wordpress/plugin/r/login-and-logout-redirect.svg)](https://wordpress.org/plugins/login-and-logout-redirect/)
+## Original Auther
 
+This plugin was a inheridence from original plugin from patilswapnilv/login-and-logout-redirect
 
-## Login-and-Logout-Redirect
+## Woocommerce-Login-and-Logout-Redirect
 
-This is an easy way to redirect user to specific URL, on login and logout.
+This is an easy way to redirect user to specific URL, on login and logout for wordpress sites that installed woocommerce plugin.
 This plugin adds extra option in Settings page (Setting>General), for specifing redirect URL for login and logout.
 
 ### Features
@@ -46,6 +47,9 @@ This Plug-in is released under the same license as the WordPress software is rel
 [https://github.com/patilswapnilv/login-and-logout-redirect](https://github.com/patilswapnilv/login-and-logout-redirect)  
 
 ### Changelog
+
+#### 1.0.6
+	updated this plugin works only for woocommerce site.
 
 #### 1.0.5
 	* Tested upto WordPress 5.0
